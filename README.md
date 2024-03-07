@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @tankist0x01
+- 👀 I’m interested in App development and Cyber security
+- 🌱 I’m currently learning Full stack development
+- 💞️ I’m looking to collaborate on JS based projects as a intern
+- 📫 How to reach me swedenbughunt3r@gmail.com
+- 😄 Pronouns: Ali
+- ⚡ Fun fact: i'm a hacker :)
