@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- ⚡ Fun fact: i'm a hacker :)
+
 <!--
 **tankist0x01/tankist0x01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
